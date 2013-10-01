@@ -1,2 +1,5 @@
-cp
-==
+#include<stdio.h>
+int mian()
+{
+
+}
